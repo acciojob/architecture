@@ -1,10 +1,8 @@
-# Favorite Holiday 
+# Architecture
 
-### Create a webpage that describes your favorite holiday destination. The webpage should include the following elements:
+### Create a HTML webpage that describes architectural information. The webpage should include the following elements:
 
-- A heading (h1) with the name of the holiday destination
-- A paragraph that provides a brief overview of the destination
-- A line break between the heading and the paragraph
-- An ordered list that lists the top 5 attractions in the destination
-- An unordered list that lists the must-try foods in the destination
-- Text within the ordered and unordered lists should be bold (strong or b) and/or italicized (em or i) to emphasize important information.
+- A div with class `.imageContainer` that contains a image.
+- All the content of webpage should have the width of 1100px.
+- A table containing two rows where each row has three columns. The first and last column of each row should have a image. For first and last column the value of attribute width should be 200 and for middle element it should be 600.
+
